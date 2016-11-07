@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{C71A1808-3D9E-74B4-A5C5-D8D9A17D68D0}") = "Basketball", "Assembly-CSharp.csproj", "{6754093B-20CD-C03B-0D64-4C07D0F72E3A}"
+EndProject
+Project("{C71A1808-3D9E-74B4-A5C5-D8D9A17D68D0}") = "Basketball", "Assembly-CSharp-Editor.csproj", "{9992DE61-E1AB-5F0E-E26D-0598260125C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6754093B-20CD-C03B-0D64-4C07D0F72E3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6754093B-20CD-C03B-0D64-4C07D0F72E3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6754093B-20CD-C03B-0D64-4C07D0F72E3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6754093B-20CD-C03B-0D64-4C07D0F72E3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9992DE61-E1AB-5F0E-E26D-0598260125C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9992DE61-E1AB-5F0E-E26D-0598260125C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9992DE61-E1AB-5F0E-E26D-0598260125C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9992DE61-E1AB-5F0E-E26D-0598260125C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
