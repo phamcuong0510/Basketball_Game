@@ -48,10 +48,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Basketball_Scripts\Score.cs" />
-     <Compile Include="Assets\Basketball_Scripts\SwipeControl.cs" />
-     <Compile Include="Assets\Basketball_Scripts\board.cs" />
-     <Compile Include="Assets\Basketball_Scripts\boardsound.cs" />
+     <Compile Include="Assets\Basketball_Scripts\Bask_Score.cs" />
+     <Compile Include="Assets\Basketball_Scripts\Bask_SwipeControl.cs" />
+     <Compile Include="Assets\Basketball_Scripts\Bask_board.cs" />
+     <Compile Include="Assets\Basketball_Scripts\Bask_boardsound.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Score : MonoBehaviour {
+public class Bask_Score : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {

@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine.UI;
 
-public class SwipeControl : MonoBehaviour
+public class Bask_SwipeControl : MonoBehaviour
 {
     //variables for swipe input detection
     private Vector3 fp; //First finger position

@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class board : MonoBehaviour {
+public class Bask_board : MonoBehaviour {
 public float timer;
 public int newtarget;
 public float speed;
@@ -15,7 +15,7 @@ public bool right = false;
 	
 	// Update is called once per frame
 	void Update () {
-	if(SwipeControl.scorePlayer >=10){
+	if(Bask_SwipeControl.scorePlayer >=10){
 	timer += Time.deltaTime;
 	if(timer >= newtarget){
 		newTarget();
@@ -30,7 +30,7 @@ public bool right = false;
 		if( transform.position.x > 1.3f){
 			right = false;
 		}
-	if(  SwipeControl.scorePlayer >=5 && SwipeControl.scorePlayer < 11 )
+	if(  Bask_SwipeControl.scorePlayer >=5 && Bask_SwipeControl.scorePlayer < 11 )
 	{
 	if(right == false){
 	 transform.Translate(Vector3.right * Time.deltaTime /2);

@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class boardsound : MonoBehaviour {
+public class Bask_boardsound : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
